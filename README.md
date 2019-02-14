@@ -1,2 +1,1 @@
-# P2-ASDOS
-Latihan
+# PRAKTIKUM ASDOS
